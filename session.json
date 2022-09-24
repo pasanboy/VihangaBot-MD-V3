@@ -42,48 +42,9 @@
     "nextPreKeyId": 31,
     "firstUnuploadedPreKeyId": 31,
     "serverHasPreKeys": true,
-    "account": {
+    "account": 
       "details": "CJSVnpcDEMXj5pgGGAE=",
-      "accountSignatureKey": "8JTYEAuAxlK7+Y09L4bCfFHCCHp1htckGO47ZRH95GI=",
-      "accountSignature": "rHH+TVcBr7gT69E03zV9IqFHeaMY0RfOCZIIA3MctBLTMGH3alKzi5vg9ZpR3jhDF8CQA9d36XZHOEkXSpmUBQ==",
-      "deviceSignature": "YZxbR0W6ImXrJciKCkLClX4wyXstx9kCzNbj29RxR+Xjvxf44UXSyhbK56BKxZ1TLdZ2iHZ83DXBiPB+QSxRjA=="
-    },
-    "me": {
-      "id": "94763427338:46@s.whatsapp.net",
-      "verifiedName": "VihangaMD",
-      "name": "VihangaMD"
-    },
-    "signalIdentities": [
-      {
-        "identifier": {
-          "name": "94763427338:46@s.whatsapp.net",
-          "deviceId": 0
-        },
-        "identifierKey": {
-          "type": "Buffer",
-          "data": "BfCU2BALgMZSu/mNPS+GwnxRwgh6dYbXJBjuO2UR/eRi"
-        }
-      }
-    ],
-    "lastAccountSyncTimestamp": 1662628295,
-    "myAppStateKeyId": "AAAAAIZ+"
-  },
-  "keys": {
-    "preKeys": {
-      "1": {
-        "private": {
-          "type": "Buffer",
-          "data": "wPCZyc0zCQFkw3Fna2HIzXmZd6CoVyYnzSF4F7tppHU="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "beoBuRBBxYmPEUR+/eAe7qdrAVHIv5+NgEnNHFRH3io="
-        }
-      },
-      "2": {
-        "private": {
-          "type": "Buffer",
-          "data": "4AJDat/4l0pO997Ha53Tw2An4uH0VhdnuqgrILsdpUg="
+      "4AJDat/4l0pO997Ha53Tw2An4uH0VhdnuqgrILsdpUg="
         },
         "public": {
           "type": "Buffer",
@@ -128,7 +89,7 @@
         "public": {
           "type": "Buffer",
           "data": "9eXJbHpPBAzh6K//fYJsLZ/AD88DX2N80sXOCuy+dFc="
-        }
+        
       },
       "7": {
         "private": {
@@ -138,16 +99,16 @@
         "public": {
           "type": "Buffer",
           "data": "OSryL62WcxuoJo93PM0puUhVGpoOBIKBtzv2e0Fwfg4="
-        }
+        
       },
       "8": {
-        "private": {
+"private": {
           "type": "Buffer",
           "data": "UAJ4UVUB1D5RKM1joabzN/rhNMdhfWClo+j19ZulxVM="
         },
         "public": {
           "type": "Buffer",
-          "data": "Bn79zIOVrDWu28ltq+mrGZWgD6TlKwF9HZTNDWu35BE="
+          "data": "Bn79zIOVrDWu28ltq+mrGZWgD6TlKwF9HZTND
         }
       },
       "9": {
@@ -522,7 +483,7 @@
             0,
             1
           ]
-        },
+        }
         "timestamp": "0"
       },
       "AAAAAIaE": {
